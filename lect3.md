@@ -1,3 +1,6 @@
+# Chapter 23 Construction of Neural Circuits
+
+## Neuronal Polarization: The first step in Neural Circuit Formation
 # Actin and tublin
 
 polymerization and depolymerization
@@ -39,3 +42,38 @@ most passway will change the cytoskeletal
 ## Selctive synapse formation
 
 Nrg1
+
+##  Trophic
++ 
++ In the absence of synaptic partneer
+
+## Neurotrophic factor: signaling moleculs provided by target
+
+target-derived trophic support regulates survival of related 
+
+## Competitive interactions 
+polyneuronal innervation
+synapse elimination
+Convergence
+Divergence: the number of connections 
+
+Neurotrophic prtein: NGF as a model system
+
+Nurotrophic signaling: 
+	+ neural process growth/retraction
+	+ NGF acts locally to stimulate neurite growth   
+
+Neurontrophin receptors and their specificity
+
+
+
+
+
+
+
+
+
+
+
+
+
