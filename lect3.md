@@ -4,15 +4,15 @@ polymerization and depolymerization
 
 The dynamic
 
-Mechanisms regulating polymerization 
+Mechanisms regulating polymerization
 
-Axon guide 
+Axon guide
 
 Non-diffusible signals for axon guidance
-## extracelluar matrix cell adhesion moleculesa 
+## extracelluar matrix cell adhesion moleculesa
 + the first to be associated with axon growth
 + lamins, dcollagesn, and fibronctin
-	+ secreted by cell itself or 
+	+ secreted by cell itself or
 + cell surface receptors: intergins
 + CAMs and caderins fasciculation(形成束状)
 
@@ -22,5 +22,4 @@ Non-diffusible signals for axon guidance
 
 + small amounts of factor
 + distinguishing tropic molecules and trophic
-+ solved by laborios biochemical purfied 
-
++ solved by laborios biochemical purfied
