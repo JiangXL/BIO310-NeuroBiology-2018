@@ -1,3 +1,6 @@
+# Part 2, Nervous System Development and Diseases
+
+## 2.3. Modification of neural ciruits as a result of experience
 
 + Critical peroids
 	+ parental imprinting
