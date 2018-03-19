@@ -1,12 +1,39 @@
-# Actin and tublin
+# Part 2, Nervous System Development and Diseases
+## 2.2. Construction of Neural Circuits
+
+### Neuronal Polarization: The first step in Neural Circuit Formation
+Neurons are especially examples of **polarized epithelial cells**, a fundamental
+cell found in most tissues. Polarized epithelial cells consists apical domain
+and basolateral domain. **Apical domain** has a distinctive cytoskelton, and membrane
+extensions(villi) that increase the surface area for taking in and releasing
+specific molecules, where are tight junctions and Golgi apparatus is oriented
+toward the apical membrane. Apical domain will develop to axon. The **basolateral domain**
+makes contact with the extracelluar martix, the plus ends of microtubles are
+oriented toward basolateral domain. Basal domain will develop to denrites.
+![](assets/markdown-img-paste-20180316114731987.png)
+
+Neurites ---Microtuble and actin redistributed---> form axon ---> form dendrites.
+**PAR proteins** family regulate cell polarity.
+
+### Axon guide
+Once the **axon** has been specified, it navigates over millimeters or even
+centimeters, throught complex embryonic terrain, to find appropriate synaptic
+partners. **Axon growth cone** is a specifilized structure at tip of extending
+axon.
+
+![](assets/markdown-img-paste-20180316115321110.png)
+
+The cone is drived by the polymerization and depolymerization of actin and
+microtuble cytoskeletons with the energy from ATP. Actin cytoskelton regulates
+the change of filopodium and lamellipodium to discovery environment. Microtuble
+enlongate the axon.
+![](assets/markdown-img-paste-20180316115437781.png)
 
 polymerization and depolymerization
 
 The dynamic
 
 Mechanisms regulating polymerization
-
-Axon guide
 
 Non-diffusible signals for axon guidance
 ## extracelluar matrix cell adhesion moleculesa
@@ -23,3 +50,41 @@ Non-diffusible signals for axon guidance
 + small amounts of factor
 + distinguishing tropic molecules and trophic
 + solved by laborios biochemical purfied
+
+both chemoattraction and chemorepulsion are need, or the axon will stop
+growth.
+
+##a Netrins ("to guide") & Slits (repulsion)
++ C. elegans:
+	+
++ DCC
+
+most passway will change the cytoskeletal
+
+## semaphorin
+
+## Selctive synapse formation
+
+Nrg1
+
+##  Trophic
++
++ In the absence of synaptic partneer
+
+## Neurotrophic factor: signaling moleculs provided by target
+
+target-derived trophic support regulates survival of related
+
+## Competitive interactions
+polyneuronal innervation
+synapse elimination
+Convergence
+Divergence: the number of connections
+
+Neurotrophic prtein: NGF as a model system
+
+Nurotrophic signaling:
+	+ neural process growth/retraction
+	+ NGF acts locally to stimulate neurite growth
+
+Neurontrophin receptors and their specificity
