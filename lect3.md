@@ -1,5 +1,6 @@
 # Part 2, Nervous System Development and Diseases(Ch23)
-# 2.2. Construction of Neural Circuits
+
+## 2.2. Construction of Neural Circuits
 
 ### Neuronal Polarization: The first step in Neural Circuit Formation
 Neurons are especially examples of **polarized epithelial cells**, a fundamental
