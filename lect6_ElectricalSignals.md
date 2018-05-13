@@ -10,4 +10,4 @@ transfer information. When nerve cells are at rest, the resting membrane
 potential if -40~-90mv
 
 # References
-https://upload.wikimedia.org/wikipedia/commons/1/1f/Patchmodes.svg
++ https://upload.wikimedia.org/wikipedia/commons/1/1f/Patchmodes.svg
