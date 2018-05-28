@@ -1,4 +1,5 @@
-# Synaptic Plasticity
+#  Plasticity
+
 Synaptic connections between neurons provide the basic "wiring" of the brains'
 circuitry. However, in contrast to the wiring of an electronic device such a
 computer, synaptic connectivity between neurons is a dynamics entity. Such
@@ -22,7 +23,7 @@ Synaptic depression
 
 ## Habituation
 Synaptic potentiationand augementation
- 
+
 Sensitization
 
 presynaptic enhance behavioral sensitzation (importancea)
