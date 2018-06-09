@@ -1,4 +1,4 @@
 # BIO310-NeuroBiology-2018
-Notes of neuron biology by Dr.Ji in SUSTech.
+Notes of Neuron Biology by Dr.Ji in SUSTech(2018.2~2018.6)
 
-Notes are free, but the slides belong to Dr.Ji
+Notes are free, but all slides belong to Dr.Ji
