@@ -1,6 +1,6 @@
 # Part 4, Sensation and Sensory Processing
 
-# 4.1 Somatic sensory system: Touch and Proprioception
+## 4.1 Somatic sensory system: Touch and Proprioception
 
 The complex system can be divided into fucntionally distinct subsystems with
 distinct sets of peripheral receptors and central pathways. One subsystem

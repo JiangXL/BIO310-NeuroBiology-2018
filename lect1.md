@@ -1,3 +1,5 @@
+% My Book
+% Yuejian Mo
 
 + What happened to the cells that moved into new place:
 	
@@ -15,6 +17,3 @@
 
 Molecular basis of growth cone motility 
 F-actin, 
-
-
-
