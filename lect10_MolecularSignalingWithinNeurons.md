@@ -1,4 +1,3 @@
-# Part 3, Neural Signaling
 # 3.5 Molecular singaling within neurons
 
 ## Chemical signaling

@@ -1,6 +1,4 @@
-# Part 4, Sensation and Sensory Processing
-
-## 4.1 Somatic sensory system: Touch and Proprioception
+# 9. Somatic sensory system: Touch and Proprioception
 
 The complex system can be divided into fucntionally distinct subsystems with
 distinct sets of peripheral receptors and central pathways. One subsystem
@@ -20,6 +18,17 @@ endings, generating a depolaring current konwn as receptor potential.
 Action potentials generated in afferent fibers by events that occur in the skin
 or in muscle propagate along the fiber and past the location of the cell body
 in the ganglia. 
+
+> Sensory afferents are further differentiated by the temporal dynamics of
+their response to sensor stimulation. Some afferents fire rapidly when a
+stimulus is first presented, then fall silent in the presence of continued
+stimulation; others generate a sustsained discharge int he presence of an 
+ongoing stimulus. Rapidly adapting afferents(those that become quiescent
+in the face of continued stimulation) are thought to be particularly
+effective in ocnveying information about changes in ongoing stimulation
+such as those produced by stimulus movement. In contrast, **slowly adapting
+afferents** are better suited to provide information about the spatial
+attributes of the stimulus, such as size and shape.
 
 
 ## Summary
