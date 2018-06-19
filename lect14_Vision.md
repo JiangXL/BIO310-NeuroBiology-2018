@@ -106,4 +106,4 @@ Cones have three type of photogiment than rod.
 AndJeremy Nathans and his colleagues at JHU identify and sequence the genes that
 encode the three human cone pigments, which show a high degree of sequence
 homology and lie adjacent to each other on the X chromosome.
-![Genetics of the cone pigments](img/11.8.png)
+![Genetics of the cone pigments](img/11.9.png)
