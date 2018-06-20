@@ -15,9 +15,21 @@ neurotransmitter released and appears to ge due to an activity-dependent
 depletion of synaptic vesicles that ready to undergo exocytosis. 
 
 ## Short-term synaptic plasticity
+The amount of neurotransmitter released from presynaptic terminals and are
+based on alterations in Ca2+ signaling and synaptic vesicle pools at recently
+active terminals.
 
 ## Long-term synaptic plasticity
+Longer-lasting forms of synaptic plasticity such as LTP and LTD are also based
+on Ca2+ and other intracellular second messengers.
 
+- At least some of the synaptic changes produced by these long-lasting forms of
+plasticity are postsynaptic, caused by changes in neurotransmitter receptor
+trafficking, although alterations in neurotransmitter release from the presynaptic
+terminal can also occur.
+- In these more enduring forms of plasticity, protein phosphorylation and changes
+in gene expression greatly outlast the period of synaptic activity and can yield
+changes in synaptic strength that persist for hours, days, or even longer.
 
 aSynaptic factilitation
 Synaptic depression

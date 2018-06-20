@@ -1,4 +1,4 @@
-# 3.5 Molecular singaling within neurons
+# 7. Molecular singaling within neurons
 
 ## Chemical signaling
 Chemical communication coordinates the behavior of individual nerve and glial
@@ -7,7 +7,8 @@ learning and memory. To carry out such communication, a series of
 extraordinarily diverse and complex chemical signaling pathways has evolved.
 The essential componets of chemical signaling contains: signaling cell, signal,
 receptor, target molecule and response. Here are 3 major forms of chemical
-signaling: synaptic transmission, paracrine signling and endocrine signaling.
+signaling: synaptic transmission, paracrine signling(旁分泌) and 
+endocrine(内分泌) signaling.
 
 
 ### Cell impermeant: have transmembrane receptor
@@ -16,14 +17,14 @@ short-lived, rapidly
 ### Cell-permeant molecues
 insoluble in aqueous
 
-### CEll-associated molecules
+### Cell-associated molecules
 adhesion mlecues, physical conact be
 
 
 ## Receptor types
 Binding of singal molecules causes a conformational chagne in the recdptor, which
 then triggers the subsequent signaling cascade within the affected cell. The 
-receptors fro impermeant signal molecules are membrane-spanning proteins, while
+receptors for impermeant signal molecules are membrane-spanning proteins, while
 intracelluar receptors are activated by cell-permeant or lipophilic singaling
 molecules. Channel-linked receptors have the receptor and transduing functions
 as part of the same protein molecule. And the intracellular domain of enzyme-linked
@@ -48,6 +49,8 @@ calcium pump, Na/ca exchanger, into er and mit\
 IP3 receptor, 
 
 (key point: how the neurnransmitter package)
+
+![How to generate](img/7.1.png)
 
 cAMP
 c7
