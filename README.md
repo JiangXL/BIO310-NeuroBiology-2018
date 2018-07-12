@@ -1,4 +1,4 @@
-# BIO310-NeuroBiology-2018
+# The Words Before All
 
 > A fist step toward understanding the mind, therefore, is to learn how neurons
 are organinzed into signaling pathways and how they communicate by means of
