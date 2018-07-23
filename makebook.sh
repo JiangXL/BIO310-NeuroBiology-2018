@@ -19,7 +19,8 @@ lect12_SomaticSensorySystem.md \
 lect13_Pain.md \
 lect14_Vision.md \
 lect15_Chemical.md \
-lect3_Construction-of-Neural-Circuits.md
+lect3_Construction-of-Neural-Circuits.md \
+ch33_Movement.md
 echo "Markdown to epub done"
 
 ## epub ==> mobi
