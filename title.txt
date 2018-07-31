@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 %Neuro Biology (2018-07-23)
+=======
+%Neuro Biology (2018-07-12)
+>>>>>>> 6c8cbd14d3ad7cc54bafa5c350604e2762feecac
 %Yuejian Mo(collete)

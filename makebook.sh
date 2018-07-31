@@ -13,6 +13,7 @@ echo "%"$author >> title.txt
 ## markdown to epub
 pandoc -o NeuroBiology.epub title.txt \
 --epub-cover-image=img/Cover.jpg \
+README.md \
 lect10_MolecularSignalingWithinNeurons.md \
 lect11_SynapticPlasticity.md \
 lect12_SomaticSensorySystem.md \

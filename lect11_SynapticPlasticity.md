@@ -19,6 +19,14 @@ The amount of neurotransmitter released from presynaptic terminals and are
 based on alterations in Ca2+ signaling and synaptic vesicle pools at recently
 active terminals.
 
+An enduring change in the functional strength of synaptic onnections thus
+constitutes the cellular mechanism mediating short-term habituation. As with
+change of this type occurs at several sits in the gill-whithdraw reflex circuit,
+memory is distibuted and shorec throught the circuit. Depression of synaptic
+transmission by sensory neurons, internerurons, or both is a common mechanism
+underlying habituation of escape responses of crayfish and cockroaches as well
+as startle reflexes in vertebrates.
+
 ## Long-term synaptic plasticity
 Longer-lasting forms of synaptic plasticity such as LTP and LTD are also based
 on Ca2+ and other intracellular second messengers.
@@ -31,7 +39,7 @@ terminal can also occur.
 in gene expression greatly outlast the period of synaptic activity and can yield
 changes in synaptic strength that persist for hours, days, or even longer.
 
-aSynaptic factilitation
+Synaptic factilitation
 Synaptic depression
 
 ## Habituation & Sensitization
@@ -50,7 +58,7 @@ Sensitization
 
 presynaptic enhance behavioral sensitzation (importancea)
 
-The prolonged duration o fthis from of 
+The prolonged duration of this from of 
 
 
 (CREB)
