@@ -64,3 +64,16 @@ The prolonged duration of this from of
 (CREB)
 First, synaptic plasticiry clearly can lead to changes tin circuit funciton and
 untimately, to be
+
+
+## Classical conditioning ##
+During conditioning the modulatory interneurons activated by tail shock relase
+serotonin shortly _after_ siphon touch has trigered an action potential in the
+sensory neurons. The action potential triggers an influx of Ca2+ into the
+sensory neuron's presynaptic terminals, the Ca2+ binds to calmodulin, and the
+complex in turn binds to adenylyl cyclase. This primes the adenylyl cyclase so
+that it responds more vigorously to the serotonin released following the 
+unconditioned stimulus at the tail. As a result, the production of cAMP is
+enhanced, which increase the amount of presynaptic facilitation. If order of
+stimulus is reversed so that serotonin release precedes Ca2+ influx in the
+presynaptic terminals, there no potentiation and no classic conditioning.
